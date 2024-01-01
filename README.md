@@ -1,16 +1,5 @@
-# animator_galaxy_planet
+<img width="181" alt="1" src="https://github.com/RAHILANDANI/animator_galaxy_planet_with_local_json/assets/110651901/61c2f237-b2fb-4da6-a61a-8acfccd101b1">
+<img width="175" alt="5" src="https://github.com/RAHILANDANI/animator_galaxy_planet_with_local_json/assets/110651901/e5e7fc53-8786-4f1f-9210-4b52a189b882">
+<img width="177" alt="2" src="https://github.com/RAHILANDANI/animator_galaxy_planet_with_local_json/assets/110651901/ec3800cc-5698-4841-97f3-36047fbebbfc">
+<img width="177" alt="4" src="https://github.com/RAHILANDANI/animator_galaxy_planet_with_local_json/assets/110651901/c73bac97-6bac-42fe-a097-e73b05d1fd47">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
